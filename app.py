@@ -1,4 +1,8 @@
-name = input("Enter your name: ")
-color = input("Enter your favorite color: ")
+from datetime import date
+birth_year = input('What year were you born? ')
 
-print(name +" likes "+ color)
+
+
+age = date.today().year - int(birth_year)
+
+print(f'You are {age} years old.')
