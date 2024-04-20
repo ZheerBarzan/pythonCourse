@@ -7,4 +7,17 @@ print(name[1:-1])
 
 
 # string methods
+print(name.upper())
+print(name.lower())
+print(name.title())
+print(name.strip())
+print(name.find("p"))
+print(name.replace("p", "j"))
+print("python" in name)
+print("python" not in name)
+print(len(name))
+print(name.split(" "))
+print(name.split("i"))
+
+
 
