@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a60e1a7e-f39f-4509-8e63-c0e72e766d1c" name="Changes" comment="" />
+    <list default="true" id="a60e1a7e-f39f-4509-8e63-c0e72e766d1c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/nested_loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/nested_loops.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,10 +39,12 @@
     "Python.exercise_3.executor": "Run",
     "Python.exercise_4.executor": "Run",
     "Python.if.executor": "Run",
+    "Python.nested_loops.executor": "Run",
     "Python.while.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/zheer/projects/python/pythonCourse"
   }
 }]]></component>
   <component name="SharedIndexes">
