@@ -35,7 +35,9 @@
   "keyToString": {
     "Python.app.executor": "Run",
     "Python.exercise_3.executor": "Run",
+    "Python.exercise_4.executor": "Run",
     "Python.if.executor": "Run",
+    "Python.while.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main"
