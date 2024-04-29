@@ -19,3 +19,20 @@ for charcaters in phone:
                                 #index , default value
     output = output + dict.get(charcaters, "!") + " "
 print(output)
+
+# emoji converter
+
+message = input(">")
+
+words = message.split(' ')
+
+emojis ={
+    ":)": "😊",
+    ":(": "😢"
+}
+
+output = ""
+
+for word in words:
+    output += emojis.get(word, word)+" "
+print(output)
