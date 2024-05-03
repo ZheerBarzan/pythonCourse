@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a60e1a7e-f39f-4509-8e63-c0e72e766d1c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,7 @@
     "Python.List.executor": "Run",
     "Python.List_exersice.executor": "Run",
     "Python.app.executor": "Run",
+    "Python.classes.executor": "Run",
     "Python.dictonary.executor": "Run",
     "Python.exercise_3.executor": "Run",
     "Python.exercise_4.executor": "Run",
